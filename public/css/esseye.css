@@ -1,0 +1,80 @@
+.bx {
+    margin-top: 2em;
+    padding: 3em 1em;
+    background-color: #10b1d0;
+    color: black
+}
+.box1 {
+    padding: 1em;
+    display: grid;
+    border-left: #d8f2fa;
+    font-family: 'Montserrat', sans-serif;
+    /* width: 50%; */
+
+}
+.box1 p{
+    width: 50%;
+    text-align: justify;
+    position: relative;
+
+}
+/* .box2 {
+    padding: 3em 5em;
+    display: inline-block;
+    border-right: #bee4f0;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    left: 60%;
+    bottom: -2490px;
+} */
+.box2 i {
+    padding: 10px;
+    margin: 10px;
+}
+
+.bx {
+    margin-top: 2em;
+    padding: 3em 1em;
+    background-color: #10b1d0;
+    color: black
+}
+.bx h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.box2 a {
+    font-size: larger;
+    text-decoration: none;
+    color: #eeeeee
+}
+
+.footer .box-container .boxx h3 {
+    font-size: 1.1rem;
+    padding: .5rem 0;
+    color: #eeeeee;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+
+.footer .box-container .boxx a {
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    font-size: 1rem;
+    color: #eeeeee;
+    text-decoration: none;
+
+}
+
+.footer .box-container .boxx a i {
+    padding-right: .3rem;
+
+}
+
+.footer .box-container .boxx a:hover {
+    color: #10b1d0;
+    transition: 600ms;
+}
+

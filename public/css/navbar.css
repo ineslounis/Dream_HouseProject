@@ -1,0 +1,57 @@
+header {
+    background-color: #222;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    padding: 0 5%;
+
+}
+
+header .logo a {
+    font-size: 25px;
+    color: #10b1d0;
+
+}
+
+header .logo a span {
+    color: #fff;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    margin: 0 15px;
+    list-style-type: none;
+    padding-top:11px;
+}
+
+.menu li a {
+    color: #fff;
+    font-size: 14px;
+}
+
+.btn-connexion {
+    color: #10b1d0;
+    font-size: 14px;
+    border: 2px solid #10b1d0;
+    padding: 5px 20px;
+    transition: 0.5s;
+    font-weight: bolder;
+    margin-left: 10px;
+    height: 100px;
+}
+
+.btn-connexion:hover {
+    background-color: #10b1d0;
+    color: #000000;
+
+}

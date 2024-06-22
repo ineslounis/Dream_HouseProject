@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.agence",
+  "appName": "Agence",
+  "webDir": "dist",
+  "android": {
+    "signing": {
+      "keystore": "C:\\Users\\User\\Agence\\my-release-key.keystore",
+      "alias": "my-key-alias",
+      "password": "Lounisines27",
+      "keyPassword": "Lounisines27"
+    }
+  }
+}

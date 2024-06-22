@@ -1,0 +1,41 @@
+.formulaire {
+    
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+   
+    border: 1px solid rgb(240, 240, 240);
+    box-shadow: rgba(88, 88, 88, 0.24) 0px 3px 8px;
+    width: 60%;
+    margin-left: 20%;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    color: white;
+}
+.formulaire label,.formulaire input,  .formulaire textarea{
+    width: 80%;
+    margin-left: 10%;
+}
+.formulaire select{
+    margin-left: 11%;
+    width: 78%;
+}
+input, select{
+    margin-bottom: 15px;
+    height: 35px;
+    border-radius: 10px;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+}
+#btn-ajouter{
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+#btn-annuler{
+    margin-left: 35%;
+
+}
